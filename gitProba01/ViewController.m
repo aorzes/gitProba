@@ -16,7 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    broj=0;
     // Do any additional setup after loading the view, typically from a nib.
+}
+- (IBAction)tipkaTipnuta:(id)sender {
+    broj++;
+    _labela.text=[NSString stringWithFormat:@"%d",broj];
 }
 
 - (void)didReceiveMemoryWarning {

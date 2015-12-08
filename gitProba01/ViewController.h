@@ -9,7 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+    int broj;
+}
 
+@property (weak, nonatomic) IBOutlet UILabel *labela;
 
 @end
 
