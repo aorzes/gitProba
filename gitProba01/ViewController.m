@@ -33,7 +33,7 @@
 -(void)promjena{
 
     NSLog(@"ovo je Toni dodao");
-
+    NSLog(@"ovo treba izazivati sukob u kodu");
     NSLog(@"funkcija radi");
 
 
