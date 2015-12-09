@@ -34,7 +34,7 @@
 
     NSLog(@"ovo je Toni dodao");
 
-
+    NSLog(@"funkcija radi");
 
 
 }
