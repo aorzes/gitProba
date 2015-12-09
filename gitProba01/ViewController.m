@@ -34,7 +34,7 @@
 
 
 
-
+    NSLog(@"funkcija radi");
 
 
 }
