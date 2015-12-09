@@ -32,7 +32,7 @@
 
 -(void)promjena{
 
-
+    NSLog(@"ovo je Toni dodao");
 
 
 
